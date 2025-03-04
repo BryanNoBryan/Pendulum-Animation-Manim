@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Bryan/Desktop/beepboop/programming/python/Manim3b1b/first/media/videos/scene/1080p60/partial_movie_files/SwingingPendulum/3977891868_3307374152_133572871.mp4'
+file 'file:C:/Users/Bryan/Desktop/beepboop/programming/python/Manim3b1b/first/media/videos/scene/1080p60/partial_movie_files/SwingingPendulum/2852726489_1502065107_1511223236.mp4'
+file 'file:C:/Users/Bryan/Desktop/beepboop/programming/python/Manim3b1b/first/media/videos/scene/1080p60/partial_movie_files/SwingingPendulum/2852726489_963316145_188784752.mp4'
+file 'file:C:/Users/Bryan/Desktop/beepboop/programming/python/Manim3b1b/first/media/videos/scene/1080p60/partial_movie_files/SwingingPendulum/2852726489_3514206971_3951346731.mp4'
+file 'file:C:/Users/Bryan/Desktop/beepboop/programming/python/Manim3b1b/first/media/videos/scene/1080p60/partial_movie_files/SwingingPendulum/2852726489_1038707267_1774596218.mp4'

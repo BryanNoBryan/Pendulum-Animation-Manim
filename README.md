@@ -1,0 +1,1 @@
+![](Pendulum-Animation-Manim/animation.gif)
